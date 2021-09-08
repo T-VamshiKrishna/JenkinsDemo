@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+      <class name="sample.DemoTest_02">
+        <test-method status="PASS" signature="testcase_004()[pri:0, instance:sample.DemoTest_02@2344fc66]" name="testcase_004" duration-ms="0" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_004 -->
+        <test-method status="PASS" signature="testcase_005()[pri:0, instance:sample.DemoTest_02@2344fc66]" name="testcase_005" duration-ms="0" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_005 -->
+        <test-method status="PASS" signature="testcase_006()[pri:0, instance:sample.DemoTest_02@2344fc66]" name="testcase_006" duration-ms="0" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_006 -->
+      </class> <!-- sample.DemoTest_02 -->
+      <class name="sample.DemoTest_01">
+        <test-method status="PASS" signature="testcase_001()[pri:0, instance:sample.DemoTest_01@2669b199]" name="testcase_001" duration-ms="10" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_001 -->
+        <test-method status="PASS" signature="testcase_002()[pri:0, instance:sample.DemoTest_01@2669b199]" name="testcase_002" duration-ms="0" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_002 -->
+        <test-method status="PASS" signature="testcase_003()[pri:0, instance:sample.DemoTest_01@2669b199]" name="testcase_003" duration-ms="5" started-at="2021-09-08T11:34:57Z" finished-at="2021-09-08T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_003 -->
+      </class> <!-- sample.DemoTest_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
